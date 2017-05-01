@@ -26,9 +26,10 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 * An identifier of the subject who carried out the experiment.
 
 ### The dataset includes the following files
-* TidyDataSet.txt
+* TidyDataSet.txt 
 * CodeBook.Rmd
 * README.Rmd
+* run_analysis.R (R script to run analysis)
 
 ### Notes
 * Features are normalized and bounded within [-1,1].
