@@ -2,6 +2,9 @@
 title: "README"
 output: github_document
 ---
+## How the run_analysis.R script works
+For run_analysis.R to work correctly, the source files must be downloaded from this URL (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and unpacked in your R working directory.
+
 
 ## Human Activity Recognition Using Smartphones Dataset
 ### Version 1.0
