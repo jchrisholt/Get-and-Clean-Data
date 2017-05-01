@@ -29,7 +29,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 * TidyDataSet.txt 
 * CodeBook.Rmd
 * README.Rmd
-* run_analysis.R (R script to run analysis)
+* run_analysis.R (R script to run analysis. NOTE: the source files must be downloaded from this URL (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) and unpacked in your R working directory)
 
 ### Notes
 * Features are normalized and bounded within [-1,1].
